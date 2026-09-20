@@ -1,0 +1,8 @@
+{
+    "disk_root": "C:\\Users\\Your_User",
+    "onedrive_destiny": "Your_OneDrive",
+    "whitelist_subdirs": [
+        "Desktop\\",
+        "Pictures\\"
+    ]
+}
